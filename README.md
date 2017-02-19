@@ -1,7 +1,8 @@
 # purify-template
 
 This is a template project which can get you started with writing a
-reproducibly-built PureScript web app.
+reproducibly-built PureScript web app, using
+[purify](https://github.com/chrisdone/purify).
 
 ### Step 1: Get the build tools
 
