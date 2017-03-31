@@ -5,4 +5,4 @@ packages:
     commit: 2cad87835dbf8c9dba2ad810b32a97579ec52af6
 - location:
     git: https://github.com/chrisdone/purify.git
-    commit: 00e62ccc4cc0daa6e1dfcaf13526ebd62652b2b7
+    commit: a0e7b77286bc4ff30c11a338661f0751de398c65
