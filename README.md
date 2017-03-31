@@ -6,7 +6,7 @@ reproducibly-built PureScript web app, using
 
 ### Step 1: Get the build tools
 
-Run `stack build` and make a cup of tea.
+Run `stack build` and make a cup of tea. ☕
 
 The output should look like this:
 
