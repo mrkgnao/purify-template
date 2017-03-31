@@ -59,4 +59,12 @@ Open `index.html` in your browser.
 
 ### Step 4: Development workflow
 
-You can add new dependencies into the `purify.yaml` file.
+Run the following (after building) in your project directory:
+
+    $ stack exec purify ide
+
+Now your IDE support (e.g. Emacs) can talk to it:
+
+![](http://i.imgur.com/Uncgo5K.png)
+
+You can add new dependencies into the `purify.yaml` file, using entries from the [purify.yaml](https://github.com/chrisdone/purify-sets/blob/master/purify.yaml) from the purify-sets repo.
