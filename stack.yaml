@@ -6,7 +6,7 @@ packages:
   extra-dep: false
 - location:
     git: https://github.com/chrisdone/purify.git
-    commit: 67465904f8246362691376438af45e98cbc5d5c2
+    commit: 432029d131df3e79e4715760f99adaa110c571fb
   extra-dep: false
 extra-deps:
 - pipes-http-1.0.5
