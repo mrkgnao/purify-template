@@ -1,8 +1,8 @@
 output-file: index.js
 extra-deps:
   - repo: https://github.com/purescript/purescript-console.git
-    commit: 63d347fa006847170de9c549392601971bd2cc7c
+    commit: 36eb19ee6ed578cbec480cd89cd5b2285984ead6
   - repo: https://github.com/purescript/purescript-eff.git
-    commit: d6c32f884c434dc2af94a2e9143fac0a0be97281
+    commit: 06d02be3a92c1e60f665573aff9dbf23b6587cd1
   - repo: https://github.com/purescript/purescript-prelude.git
-    commit: 4b9fdde22cc521b5e132ec69ac95b814aca63356
+    commit: a9ba3994291175420c1c2924f78430f01f02e13e
