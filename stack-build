@@ -1,0 +1,3 @@
+#!/bin/sh
+
+stack build --jobs 1 --prefetch --fast --install-ghc
